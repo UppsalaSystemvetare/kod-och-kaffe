@@ -16,5 +16,19 @@ namespace EncryptDecrypt
         {
             InitializeComponent();
         }
+
+        private void check_Decrypt_CheckedChanged(object sender, EventArgs e)
+        {
+            //Check if checkbox is checked
+            if (check_Decrypt.Checked)
+            {
+                //Change text on submit button
+                button_Submit.Text = "Decrypt!";
+            }
+            else
+            {
+                button_Submit.Text = "Encrypt!";
+            }
+        }
     }
 }

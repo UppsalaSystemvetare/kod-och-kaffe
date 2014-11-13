@@ -1,1 +1,9 @@
 \\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+\\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+\\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+\\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.Form1.resources
+\\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.Properties.Resources.resources
+\\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+\\psf\Home\Documents\Systemvetenskap\Föreningen\Utb\Programmeringsstugan\kod-och-kaffe\Uppgifter\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb

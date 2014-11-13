@@ -57,6 +57,7 @@
             this.check_Decrypt.TabIndex = 1;
             this.check_Decrypt.Text = "Decrypt?";
             this.check_Decrypt.UseVisualStyleBackColor = true;
+            this.check_Decrypt.CheckedChanged += new System.EventHandler(this.check_Decrypt_CheckedChanged);
             // 
             // button_Submit
             // 
@@ -64,7 +65,7 @@
             this.button_Submit.Name = "button_Submit";
             this.button_Submit.Size = new System.Drawing.Size(292, 23);
             this.button_Submit.TabIndex = 2;
-            this.button_Submit.Text = "Encrypt";
+            this.button_Submit.Text = "Encrypt!";
             this.button_Submit.UseVisualStyleBackColor = true;
             // 
             // group_Input
