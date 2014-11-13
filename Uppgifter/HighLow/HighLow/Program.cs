@@ -10,6 +10,16 @@ namespace HighLow
     {
         static void Main(string[] args)
         {
+            /*
+             * Detta är ett klassiskt spel där man som användare ska gissa vilket tal programmet 'tänker' på, 
+             * vilket i sin tur ska svara med ledtrådar om man gissat för högt eller för lågt.
+             * 
+             * Mycket av koden är redan skriven men programmet innehåller ett antal fel som behöver fixas för att det ska fungera.
+             * På alla rader där Visual Studio ger felmeddelanden ska det inom /* och * / ersättas av kod.
+             * 
+             * Lycka till!
+             */
+
             Random rnd = new Random();
             bool stillWondering = true;
             int maxNumber = /*sätt högsta tal*/;
