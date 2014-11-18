@@ -1,7 +1,7 @@
 Uppgifter till programmeringsstugan
 =============
 
-Ladda ner uppgifterna [här!](https://github.com/UppsalaSystemvetare/kod-och-kaffe/master/)
+Ladda ner uppgifterna [här!](https://github.com/UppsalaSystemvetare/kod-och-kaffe/zipball/master/)
 
 ######1. HighLow
 Uppgift: Lös felen i skalprojektet för att skapa ett enkelt spel där användaren ska gissa vilket tal programmet "tänker" på.  
