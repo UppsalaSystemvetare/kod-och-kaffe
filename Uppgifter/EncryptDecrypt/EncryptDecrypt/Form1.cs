@@ -17,12 +17,15 @@ namespace EncryptDecrypt
             InitializeComponent();
         }
 
+        //This method is called when a user checks or unchecks the "Decrypt?"-checkbox
         private void check_Decrypt_CheckedChanged(object sender, EventArgs e)
         {
-            //Check if checkbox is checked
-            if (check_Decrypt.Checked)
+            //check_Decrypt = Name of the checkbox
+            //Checked = a property that checks if the checkbox is checked or not
+            if (check_Decrypt.Checked == true)
             {
-                //Change text on submit button
+                //This changes the text on the submit button to "Decrypt".
+                // (button_submit is the name of the button)
                 button_Submit.Text = "Decrypt!";
             }
             else

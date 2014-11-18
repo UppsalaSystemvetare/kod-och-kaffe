@@ -10,7 +10,9 @@ Svårighetsgrad (1-5): 1
 ######2. EncryptDecrypt
 Uppgift: Bekanta dig med Windows Forms genom att i ett skalprojekt implementera en algoritm för ett [Caesarchiffer](http://sv.wikipedia.org/wiki/Caesarchiffer).  
 Svårighetsgrad (1-5): 2  
-Kommentar: För en högre svårighetsgrad kan man istället implementera ett annat chiffer. T.ex. [Vigenère-chiffret](http://sv.wikipedia.org/wiki/Vigenère-chiffret).
+Kommentar:
++ Börja med att implemntera programmet utan dekryptering och 'key', och fokusera istället på kryptering.
++ För en högre svårighetsgrad kan man istället implementera ett annat chiffer. T.ex. [Vigenère-chiffret](http://sv.wikipedia.org/wiki/Vigenère-chiffret).
 
 ######3. Calculator
 Uppgift: Programmera en miniräknare! Ladda ner skalprojektet så slipper du göra det tråkiga och kan bara ägna dig åt allt det roliga.  
