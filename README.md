@@ -3,16 +3,18 @@ Uppgifter till programmeringsstugan
 
 Ladda ner uppgifterna [här!](https://github.com/UppsalaSystemvetare/kod-och-kaffe/zipball/master/)
 
-######1. HighLow
-Uppgift: Lös felen i skalprojektet för att skapa ett enkelt spel där användaren ska gissa vilket tal programmet "tänker" på.  
+######1. 1-100
+Uppgift: Skriv ut talet 1-100 i storleksordning från minst till störst. Din lösning måste börja med följande:
+```
+for (int i = 100; i > 0; i--) ...
+```
+
+######2. Fizz Buzz
+Uppgift: Skriv ett program som i consolen skriver ut talen 1-100. Men för alla tal som är med i treans multiplikationstabell skriv istället ut "Fizz" och för tal i femmans multiplikationstabell skriv ut "Buzz". För tal som både är med i treans och femmans multiplikationstabeller skriv ut "Fizz Buzz".
 Svårighetsgrad (1-5): 1
 
-######2. 1-100
-Uppgift: Skriv ut talet 1-100 i storleksordning från minst till störst. Din lösning måste börja med `for (int i = 100; i > 0; i--)`.
-
-
-######3. Fizz Buzz
-Uppgift: Skriv ett program som i consolen skriver ut talen 1-100. Men för alla tal som är med i treans multiplikationstabell skriv istället ut "Fizz" och för tal i femmans multiplikationstabell skriv ut "Buzz". För tal som både är med i treans och femmans multiplikationstabeller skriv ut "Fizz Buzz".
+######3. HighLow
+Uppgift: Lös felen i skalprojektet för att skapa ett enkelt spel där användaren ska gissa vilket tal programmet "tänker" på.  
 Svårighetsgrad (1-5): 1
 
 ######4. EncryptDecrypt
