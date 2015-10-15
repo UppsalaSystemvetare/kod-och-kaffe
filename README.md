@@ -1,8 +1,6 @@
 Uppgifter till programmeringsstugan
 =============
 
-Ladda ner uppgifterna [här!](https://github.com/UppsalaSystemvetare/kod-och-kaffe/zipball/master/)
-
 ######1. 1-100
 Uppgift: Skriv ut talet 1-100 i storleksordning från minst till störst. Din lösning måste börja med följande:
 ```
@@ -17,12 +15,16 @@ Svårighetsgrad (1-5): 1
 Uppgift: Lös felen i skalprojektet för att skapa ett enkelt spel där användaren ska gissa vilket tal programmet "tänker" på.  
 Svårighetsgrad (1-5): 1
 
+Ladda ner [uppgiften](https://github.com/UppsalaSystemvetare/kod-och-kaffe_HighLow/zipball/master/).
+
 ######4. EncryptDecrypt
 Uppgift: Bekanta dig med Windows Forms genom att i ett skalprojekt implementera en algoritm för ett [Caesarchiffer](http://sv.wikipedia.org/wiki/Caesarchiffer). I uppgiften finns det exempelkod som visar hur man kan jobba med Windows Forms.
 Svårighetsgrad (1-5): 2  
 Kommentar:
 + Börja med att implemntera programmet utan dekryptering och 'key', och fokusera istället på kryptering.
 + För en högre svårighetsgrad kan man istället implementera ett annat chiffer. T.ex. [Vigenère-chiffret](http://sv.wikipedia.org/wiki/Vigenère-chiffret).
+
+Ladda ner [uppgiften](https://github.com/UppsalaSystemvetare/kod-och-kaffe_EncryptDecrypt/zipball/master/).
 
 ######5. Calculator
 Uppgift: Programmera en miniräknare! Ladda ner skalprojektet så slipper du göra det tråkiga och kan bara ägna dig åt allt det roliga.  
@@ -36,3 +38,5 @@ Kommentar: Klar och redo för mer? Här är några tankar:
   + m-: Subtrahera från minnet.
   + mr: Hämta från minnet.
   + mc: Rensa minnet.
+
+Ladda ner [uppgiften](https://github.com/UppsalaSystemvetare/kod-och-kaffe_Calculator/zipball/master/).
