@@ -2,9 +2,11 @@ Uppgifter till programmeringsstugan
 =============
 
 ######1. 1-100
-Uppgift: Skriv ut talet 1-100 i storleksordning från minst till störst. Din lösning måste börja med följande:
-```
-for (int i = 100; i > 0; i--) ...
+Uppgift: Skriv ut talet 1-100 i storleksordning från minst till störst. Din lösning måste se följa det här mönstret:
+```c#
+for (int i = 100; i > 0; i--) {
+  /* din lösning här */
+}
 ```
 
 ######2. Fizz Buzz
